@@ -20,10 +20,5 @@ pipeline {
       always {
         echo "always"
       }
-
-    
-
-
-
     }
 }
