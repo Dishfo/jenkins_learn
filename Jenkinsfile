@@ -21,9 +21,7 @@ pipeline {
         echo "always"
       }
 
-      success {
-        echo "success build" 
-      }
+    
 
 
 
