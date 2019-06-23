@@ -7,6 +7,7 @@ pipeline {
                 sh '''
                   echo "hello world"
                   ls -lah
+                  echo "end"
                 '''
             }
         }
